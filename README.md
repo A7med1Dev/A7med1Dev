@@ -1,32 +1,115 @@
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">Full Stack Developer Mern Stack</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7med1dev&label=Profile%20views&color=0e293a&style=flat" alt="a7med1dev" /> </p>
+```
+ █████╗ ██╗  ██╗███╗   ███╗███████╗██████╗
+██╔══██╗██║  ██║████╗ ████║██╔════╝██╔══██╗
+███████║███████║██╔████╔██║█████╗  ██║  ██║
+██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
+██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
+```
 
-- 🌱 I’m currently learning **Next js**
+### Full Stack Developer — Cairo, Egypt
 
-- 👨‍💻 All of my projects are available at [https://ahmed-dev.online](https://ahmed-dev.online)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmed--dev.online-d4956a?style=flat-square&logo=vercel&logoColor=white)](https://ahmed-dev.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--mohsen--dev-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohsen-dev)
+[![Email](https://img.shields.io/badge/Email-contact-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmadmohsen.business@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-chat-25d366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201055255904)
 
-- 💬 Ask me about **anything**
+</div>
 
-- 📫 How to reach me **contact@ahmed-dev.online**
+---
 
-- 📄 Know about my experiences [https://ahmed-dev.online/resume](https://ahmed-dev.online/resume)
+## About
 
-- ⚡ Fun fact **I think I am Funny**
+Full stack developer with **4+ years** building production-grade web applications for clients across Egypt, Saudi Arabia, the UK, and Palestine. I specialize in the complete arc — API design, database schema, and the last animation curve.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ahmed mohsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed mohsen" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmed1dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed1dev" height="30" width="40" /></a>
-</p>
+- **Frontend** — Next.js, React, Tailwind CSS, Framer Motion, GSAP
+- **Backend** — NestJS, Node.js, REST APIs, WebSockets
+- **Database** — MySQL, Prisma, TypeORM, Redis
+- **Tooling** — TypeScript, Git, Docker, Vercel, Linux
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Currently **open to new projects** for Q3 2025.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7med1dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="a7med1dev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a7med1dev&show_icons=true&theme=dark&locale=en" alt="a7med1dev" /></p>
+## Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a7med1dev&theme=dark" alt="a7med1dev" /></p>
+<div align="left">
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## Featured Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**Dr Cosmo**](https://drcosmo.net) | Next.js · NestJS · MySQL | Cosmetic e-commerce — custom CMS, Stripe checkout, bilingual AR/EN |
+| [**Flix Store**](https://flix-store.com) | NestJS · MySQL · Redis | E-commerce backend — faceted search, Redis cache, role-based admin |
+| [**Moaz Pharmacy**](https://www.moazpharma.com/ar) | Next.js · Tailwind | Bilingual pharmacy storefront, RTL-first, KSA market |
+| **Recite & Rise** | Next.js · NestJS · MySQL | Subscription platform — audio streaming, Stripe, content pipeline |
+| **Restaurant Suite** | Next.js · NestJS | Menu + admin — real-time orders via WebSockets |
+| **Alfares PSS** | React · Next.js | School secretary system, 200+ public schools, Palestine |
+
+> All client repos are private. Screenshots and case studies → [ahmed-dev.online](https://ahmed-dev.online)
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=A7med1Dev&bg_color=0d1117&color=d4956a&line=d4956a&point=f5f3ef&area=true&area_color=d4956a&hide_border=true&custom_title=Contribution+Activity)
+
+</div>
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=A7med1Dev&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=d4956a&icon_color=d4956a&text_color=c9d1d9&ring_color=d4956a)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A7med1Dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=d4956a&text_color=c9d1d9&langs_count=6)
+
+</div>
+
+---
+
+## Certifications
+
+- **Meta Front-End Developer** — Professional Certificate · [Verify ↗](https://coursera.org/verify/professional-cert/BA6HK5LC9JG8)
+- **Next.js 15 — The Complete Guide** — Udemy · [Verify ↗](https://www.udemy.com/certificate/UC-5ac6dea1-17d0-44ba-8a05-a133a6e1e0ad/)
+- **NestJS Zero to Hero** — Udemy · [Verify ↗](https://www.udemy.com/certificate/UC-266a949f-1632-4a49-a2f9-43227d32f1b7/)
+- **Shop App — Next.js + NestJS** — Udemy · [Verify ↗](https://www.udemy.com/certificate/UC-64196270-49e0-4a4f-bfb5-a173d251335f/)
+
+---
+
+## Let's Work Together
+
+Open for freelance projects, contract work, and long-term collaborations.
+
+| | |
+|--|--|
+| **Timeline** | Marketing site 2–3 wks · Storefront 4–6 wks · Full product 8–12 wks |
+| **Rate** | Project-based · $5k–$25k · Retainers from $1.5k/mo |
+| **Timezone** | Cairo, Egypt (GMT+2) |
+
+**→ [ahmed-dev.online](https://ahmed-dev.online) · [Send inquiry](mailto:ahmadmohsen.business@gmail.com?subject=Project%20Inquiry)**
+
+---
+
+<div align="center">
+<sub>Portfolio built with Next.js 16 · Deployed on Vercel</sub>
+</div>
