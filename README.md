@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
 ```
 
-### Full Stack Developer — Cairo, Egypt
+### Full Stack Developer — Al Sharqia, Egypt
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmed--dev.online-d4956a?style=flat-square&logo=vercel&logoColor=white)](https://ahmed-dev.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--mohsen--dev-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohsen-dev)
@@ -56,14 +56,14 @@ Currently **open to new projects** for Q3 2025.
 
 ## Featured Projects
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**Dr Cosmo**](https://drcosmo.net) | Next.js · NestJS · MySQL | Cosmetic e-commerce — custom CMS, Stripe checkout, bilingual AR/EN |
-| [**Flix Store**](https://flix-store.com) | NestJS · MySQL · Redis | E-commerce backend — faceted search, Redis cache, role-based admin |
-| [**Moaz Pharmacy**](https://www.moazpharma.com/ar) | Next.js · Tailwind | Bilingual pharmacy storefront, RTL-first, KSA market |
-| **Recite & Rise** | Next.js · NestJS · MySQL | Subscription platform — audio streaming, Stripe, content pipeline |
-| **Restaurant Suite** | Next.js · NestJS | Menu + admin — real-time orders via WebSockets |
-| **Alfares PSS** | React · Next.js | School secretary system, 200+ public schools, Palestine |
+| Project                                            | Stack                    | Description                                                        |
+| -------------------------------------------------- | ------------------------ | ------------------------------------------------------------------ |
+| [**Dr Cosmo**](https://drcosmo.net)                | Next.js · NestJS · MySQL | Cosmetic e-commerce — custom CMS, Stripe checkout, bilingual AR/EN |
+| [**Flix Store**](https://flix-store.com)           | NestJS · MySQL · Redis   | E-commerce backend — faceted search, Redis cache, role-based admin |
+| [**Moaz Pharmacy**](https://www.moazpharma.com/ar) | Next.js · Tailwind       | Bilingual pharmacy storefront, RTL-first, KSA market               |
+| **Recite & Rise**                                  | Next.js · NestJS · MySQL | Subscription platform — audio streaming, Stripe, content pipeline  |
+| **Restaurant Suite**                               | Next.js · NestJS         | Menu + admin — real-time orders via WebSockets                     |
+| **Alfares PSS**                                    | React · Next.js          | School secretary system, 200+ public schools, Palestine            |
 
 > All client repos are private. Screenshots and case studies → [ahmed-dev.online](https://ahmed-dev.online)
 
@@ -100,10 +100,11 @@ Currently **open to new projects** for Q3 2025.
 
 Open for freelance projects, contract work, and long-term collaborations.
 
-| | |
-|--|--|
+|              |                                                                     |
+| ------------ | ------------------------------------------------------------------- |
 | **Timeline** | Marketing site 2–3 wks · Storefront 4–6 wks · Full product 8–12 wks |
-| **Timezone** | Cairo, Egypt (GMT+2) |
+| **Rate**     | Project-based · $5k–$25k · Retainers from $1.5k/mo                  |
+| **Timezone** | Cairo, Egypt (GMT+2)                                                |
 
 **→ [ahmed-dev.online](https://ahmed-dev.online) · [Send inquiry](mailto:ahmadmohsen.business@gmail.com?subject=Project%20Inquiry)**
 
