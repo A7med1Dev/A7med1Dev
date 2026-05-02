@@ -103,7 +103,6 @@ Open for freelance projects, contract work, and long-term collaborations.
 | | |
 |--|--|
 | **Timeline** | Marketing site 2–3 wks · Storefront 4–6 wks · Full product 8–12 wks |
-| **Rate** | Project-based · $5k–$25k · Retainers from $1.5k/mo |
 | **Timezone** | Cairo, Egypt (GMT+2) |
 
 **→ [ahmed-dev.online](https://ahmed-dev.online) · [Send inquiry](mailto:ahmadmohsen.business@gmail.com?subject=Project%20Inquiry)**
